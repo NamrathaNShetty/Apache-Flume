@@ -1,4 +1,4 @@
-To write python code for getting live stock data using the link provided:
+To write python code for getting live stock data using the link provided(python3)
 
 Generate API(Application programming interface) key from following link:
 https://www.alphavantage.co/
